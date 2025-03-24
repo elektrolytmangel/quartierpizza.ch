@@ -24,7 +24,7 @@ export const Introduction = (props: Props) => {
           </h3>
           <h1 className="text-6xl mt-4 text-center">Quartier Pizza</h1>
         </div>
-        <p className="text-black md:text-white py-1 px-2 rounded bg-white md:bg-transparent font-serif text-3xl text-center z-20">
+        <p className="text-black md:text-white py-1 px-2 rounded bg-gray-100 md:bg-transparent font-serif text-3xl text-center z-20">
           {t("pizzaShortIntro")}
         </p>
       </div>
