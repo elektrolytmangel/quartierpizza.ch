@@ -4,7 +4,7 @@ const Footer: React.FC = () => {
   return (
     <footer className="w-full bg-black text-white p-10">
       <div className="">
-        <div className="flex flex-col items-center justify-center">
+        <div className="flex flex-col items-center justify-center text-center">
           <h3 className="text-2xl">Quartier Pizza</h3>
           <p>Delicious pizza made with love in your neighborhood.</p>
           <p>

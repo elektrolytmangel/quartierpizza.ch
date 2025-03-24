@@ -1,12 +1,14 @@
 import { useRef } from "react";
 import { useTranslation } from "react-i18next";
 import "./App.css";
+import imgContact from "./assets/images/contact.jpg";
 import imgDough from "./assets/images/dough.jpg";
+import imgIngredients from "./assets/images/ingredients.jpg";
 import imgPizza from "./assets/images/pizza.jpg";
+import Footer from "./modules/footer/Footer";
 import { Introduction } from "./modules/introduction/Introduction";
 import { TextImageBox } from "./modules/text-image-box/TextImageBox";
-import imgIngredients from "./assets/images/ingredients.jpg";
-import Footer from "./modules/footer/Footer";
+
 function App() {
   const { t } = useTranslation();
   const firstViewRef = useRef<HTMLDivElement>(null);
@@ -40,6 +42,8 @@ function App() {
       <TextImageBox
         titel={t("contactUs")}
         text={t("contactUsText")}
+        img={imgContact}
+        ltr={true}
       />
       <Footer />
     </div>

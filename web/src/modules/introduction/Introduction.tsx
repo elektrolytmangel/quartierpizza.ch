@@ -18,8 +18,8 @@ export const Introduction = (props: Props) => {
         className="md:w-full md:h-full md:absolute -z-10"
       />
       <div className="top-0 absolute flex flex-col gap-5 justify-center items-center w-full">
-        <div className="py-3 md:py-10 px-5 md:px-20 m-2 md:m-10 flex flex-col items-center justify-center text-white z-20 border border-gray-700 bg-linear-to-tr opacity-90 from-black to-transparent">
-          <h3 className="text-3xl font-bold font-serif text-center">
+        <div className="py-3 md:py-10 px-5 md:px-20  md:m-10 flex flex-col items-center justify-center text-white z-20 md:border md:border-gray-700 md:bg-linear-to-tr md:opacity-90 md:from-black md:to-transparent">
+          <h3 className="text-3xl font-bold font-serif text-center bg-black rounded px-2 py-1 md:bg-transparent">
             {t("lucaAndMarcPresenting")}
           </h3>
           <h1 className="text-6xl mt-4 text-center">Quartier Pizza</h1>
