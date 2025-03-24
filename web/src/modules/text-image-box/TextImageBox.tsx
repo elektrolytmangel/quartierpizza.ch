@@ -10,9 +10,9 @@ type Props = {
 
 export const TextImageBox = ({ ref, img, titel, text, ltr }: Props) => {
   const classes = cn(
-    "flex flex-row items-center justify-center py-10 px-20 gap-10",
+    "flex flex-col md:flex-row items-center justify-center py-5 md:py-10 px-10 md:px-20 gap-10",
     {
-      "flex-row-reverse": ltr,
+      "md:flex-row-reverse": ltr,
     }
   );
 
