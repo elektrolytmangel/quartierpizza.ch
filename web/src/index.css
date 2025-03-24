@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Poppins";
+  src: local("Poppins"),
+    url(./assets/fonts/Poppins-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Dancing Script";
+  src: local("Dancing Script"),
+    url(./assets/fonts/DancingScript-VariableFont_wght.ttf) format("truetype");
+}
+
+@theme {
+  --font-sans: "Poppins", sans-serif;
+  --font-serif: "Dancing Script", cursive;
+}
