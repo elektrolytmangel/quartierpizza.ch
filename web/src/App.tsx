@@ -20,7 +20,7 @@ function App() {
   };
 
   return (
-    <div className="overflow-auto h-screen">
+    <div className="overflow-auto h-screen bg-gray-100">
       <Introduction onNextViewClick={handleNextViewClick} />
       <TextImageBox
         ref={firstViewRef}

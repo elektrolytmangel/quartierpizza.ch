@@ -16,7 +16,7 @@ export const Introduction = (props: Props) => {
         <img
           src={pizzaNapoOven}
           alt="Pizza Napo Oven"
-          className="object-cover w-full h-full md:absolute -z-10"
+          className="object-cover w-full h-full md:absolute"
         />
       </div>
       <div className="top-0 absolute flex flex-col gap-5 justify-center items-center w-full">
