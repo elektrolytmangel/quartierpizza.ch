@@ -12,7 +12,7 @@ export const Introduction = (props: Props) => {
 
   return (
     <div className="relative md:w-full flex flex-col md:h-screen bg-gray-100 md:bg-transparent">
-      <div className="w-screen h-full overflow-hidden">
+      <div className="w-screen md:w-full h-full overflow-hidden">
         <img
           src={pizzaNapoOven}
           alt="Pizza Napo Oven"
