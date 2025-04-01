@@ -1,12 +1,14 @@
 {
-  "lucaAndMarcPresenting": "Luca & Marc present",
+  "lucaAndMarcPresenting": "Luca & Marc presenting",
   "pizzaShortIntro": "Local, fresh, and a delight for all senses",
-  "fireAndDough": "The story of Fire and Dough",
-  "fireAndDoughText": "The dough is carefully made by hand. It rests for at least 48 hours before being topped with the finest ingredients, which makes it particularly digestible. We use only the freshest, highest-quality ingredients and bake our pizzas in a 400-degree oven for an unforgettable taste.",
+  "ourServices": "What we offer you",
+  "ourServicesText": "We offer personal and hassle-free pizza catering in your garden for friends and family. We bring a pizza oven, our homemade dough, ingredients (as per your wishes), and everything else needed for a delightful experience. Interested? Contact us via email and we will gladly discuss all options and wishes with you personally.",
+  "fireAndDough": "The Story of Fire and Dough",
+  "fireAndDoughText": "The dough is carefully handcrafted by us. Before topping it with the best ingredients, it rests for at least 48 hours, making it particularly digestible. We bake the pizzas in a pizza oven over 400 degrees, allowing the dough to fully develop and offer an unforgettable taste experience.",
   "ourPizzas": "Our Pizzas",
-  "ourPizzasText": "Our pizzas are unique and diverse. We offer a wide selection of classic and innovative pizzas that delight every palate. Whether vegetarian, vegan, or with meat - we have something for every taste.",
+  "ourPizzasText": "Our pizzas are very diverse and we offer a wide selection of classic and innovative pizzas that will delight every palate. Whether vegetarian, vegan, or with meat - we have something for every taste.",
   "ourValues": "Our Values",
-  "ourValuesText": "We place great value on quality, sustainability, and regionality. Our products come from local producers and are free from artificial additives. We are committed to the conscious handling of food and want to contribute to a healthy and sustainable diet.",
+  "ourValuesText": "We place great emphasis on quality, sustainability, and regionality. Wherever possible, we rely on regional products and advocate for conscious use of food.",
   "contactUs": "Contact Us",
   "contactUsText": "Do you have questions or suggestions? We look forward to your feedback and are happy to assist you. Contact us via email, and we will get back to you as soon as possible."
 }
